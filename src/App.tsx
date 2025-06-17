@@ -92,6 +92,11 @@ const App = () => {
         onProcessRowUpdateError={handleProcessRowUpdateError}
       />
       <SnackbarAlert snackbar={snackbar} onClose={handleCloseSnackbar} />
+      <footer style={{ textAlign: 'center', marginTop: '2rem', padding: '1rem', borderTop: '1px solid #eaeaea' }}>
+        <a href="https://github.com/AltSoyuz/aac" target="_blank" rel="noopener noreferrer">
+          View on GitHub
+        </a>
+      </footer>
     </div>
   );
 };
