@@ -1,0 +1,82 @@
+[
+    {
+        "Id": 1,
+        "Name": "Hydraulic Pump",
+        "Reference": "TP-IND-001",
+        "Price": 2599.99,
+        "Rating": 4,
+        "Group": "Total Group"
+    },
+    {
+        "Id": 2,
+        "Name": "Industrial Valve",
+        "Reference": "TP-IND-002",
+        "Price": 799.50,
+        "Rating": 5,
+        "Group": "Total Group"
+    },
+    {
+        "Id": 3,
+        "Name": "Conveyor Belt",
+        "Reference": "TP-IND-003",
+        "Price": 1499.00,
+        "Rating": 4,
+        "Group": "Total Group"
+    },
+    {
+        "Id": 4,
+        "Name": "Electric Motor",
+        "Reference": "TP-IND-004",
+        "Price": 1200.00,
+        "Rating": 5,
+        "Group": "Total Group"
+    },
+    {
+        "Id": 5,
+        "Name": "Gearbox Assembly",
+        "Reference": "TP-IND-005",
+        "Price": 950.00,
+        "Rating": 3,
+        "Group": "Total Group"
+    },
+    {
+        "Id": 6,
+        "Name": "Industrial Sensor",
+        "Reference": "TP-IND-006",
+        "Price": 299.99,
+        "Rating": 5,
+        "Group": "Total Group"
+    },
+    {
+        "Id": 7,
+        "Name": "Pressure Regulator",
+        "Reference": "TP-IND-007",
+        "Price": 499.90,
+        "Rating": 4,
+        "Group": "Total Group"
+    },
+    {
+        "Id": 8,
+        "Name": "Heat Exchanger",
+        "Reference": "TP-IND-008",
+        "Price": 1899.99,
+        "Rating": 5,
+        "Group": "Total Group"
+    },
+    {
+        "Id": 9,
+        "Name": "Industrial Compressor",
+        "Reference": "TP-IND-009",
+        "Price": 3499.50,
+        "Rating": 4,
+        "Group": "Total Group"
+    },
+    {
+        "Id": 10,
+        "Name": "Control Panel",
+        "Reference": "TP-IND-010",
+        "Price": 2499.99,
+        "Rating": 3,
+        "Group": "Total Group"
+    }
+]
