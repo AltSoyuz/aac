@@ -60,7 +60,7 @@ export const ProductGrid = ({
       field: "Id",
       headerName: "ID",
       width: 90,
-      editable: true,
+      editable: false,
       minWidth: 90,
     },
     {
